@@ -1,4 +1,4 @@
-# Hardware 
+# Hardware and Required components to develop solutions
 
 1) Raspberry Pi Pico W (with WiFi) — the core MCU.
 2) MQ135 Gas Sensor (Air Quality / CO₂ Equivalent)
@@ -7,3 +7,5 @@
 5) Breadboard
 6) Male to Male Jumper Wires
 7) Female-to-Male Jumper Wires
+8) Thonny IDE
+9) Thingspeak Cloud
