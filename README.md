@@ -1,6 +1,6 @@
 # IoT-Air-Noise-Pollution-Monitoring-System
 1. Problem Statement
-Air pollution and noise pollution are major environmental concerns affecting public health, productivity, and overall quality of life. Traditional monitoring systems are expensive, stationary, and not easily accessible for real-time analysis.
+Air pollution and noise pollution are major environmental concerns affecting public health, productivity, and  òoverall quality of life. Traditional monitoring systems are expensive, stationary, and not easily accessible for real-time analysis.
 The goal of this project is to develop an IoT-based Air and Noise Pollution Monitoring System using Raspberry Pi Pico that can measure key environmental parameters in real time and transmit this data to a cloud dashboard for remote monitoring.
 The system should emphasize:
 Accuracy in measurement
