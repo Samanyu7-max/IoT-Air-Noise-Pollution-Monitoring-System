@@ -1,4 +1,4 @@
-#Hardware 
+# Hardware 
 
 1) Raspberry Pi Pico W (with WiFi) — the core MCU.
 2) MQ135 Gas Sensor (Air Quality / CO₂ Equivalent)
